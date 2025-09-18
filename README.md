@@ -10,4 +10,4 @@ Opensource dashboards are much more flexible, provide many more visualization al
 ### Visualizations
 #### Page 1
 ---
-(https://raw.githubusercontent.com/SubhraSMukherjee/Dashboard_App/screenshots/Page1.png)
+![Page_1](https://github.com/SubhraSMukherjee/Dashboard_App/blob/main/screenshots/Page1.PNG)
